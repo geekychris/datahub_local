@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Datahub Local logo" width="180">
+</p>
+
 # DataHub Setup
 
 **Note:** This directory has been reorganized. All DataHub files are now in the `datahub/` directory, and we're using the official DataHub quickstart configuration.
